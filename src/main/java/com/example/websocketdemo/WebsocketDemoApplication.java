@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WebsocketDemoApplication {
 
 	public static void main(String[] args) {
-        System.out.println("Application started in Spring boot");
+        System.out.println("Application started in Spring boot suresh");
 	    SpringApplication.run(WebsocketDemoApplication.class, args);
 	}
 }
